@@ -1,0 +1,86 @@
+.container {
+    font-family: Futura,Trebuchet MS,Arial,sans-serif;
+}
+
+#seccion1 {
+    height: 250px;
+}
+
+#seccion2 {
+    height: 300px;
+}
+
+#seccion3 {
+    height: 200px;
+}
+
+#panelimagen {
+    height: 250px;
+    text-align: center;
+    background-color: black;
+}
+
+#imagen {
+    height: 250px;
+}
+
+.rowsiguales {
+    height: 33.3%;
+}
+
+.colspequenas {
+    text-align: center;
+    padding-top: 28px;
+    font-size: 18px;
+}
+
+a {
+    color: white;
+}
+
+a:hover {
+    color: black;
+}
+
+#colgrande1 {
+    background-color: #4E4E4E;
+    padding-top: 21px;
+}
+
+#colgrande2 {
+    background-color: #3D3D3D;
+    padding-top: 25px;
+}
+
+#colpequena1 {
+    text-align: center;
+    background-color: #454545;
+    padding-top: 15px;
+}
+
+#colpequena1 img {
+    height: 50px;
+}
+
+#colpequena2 {
+    text-align: center;
+    background-color: #383838;
+    padding-top: 35px;
+}
+
+#colpequena2 img {
+    height: 15px;
+}
+
+.paddingcol {
+    padding-top: 20px;
+}
+
+#albums {
+    padding-top: 37px;
+}
+
+.imagenesmedianas {
+    padding-top: 5px;
+    text-align: center;
+}
